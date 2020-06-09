@@ -1,0 +1,2 @@
+== ByteOutputStream类找不到
+http://maven.40175.n5.nabble.com/Why-can-t-Maven-find-com-sun-xml-internal-messaging-saaj-util-ByteOutputStream-class-td107361.html[Why can't Maven find com.sun.xml.internal.messaging.saaj.util.ByteOutputStream class?]
